@@ -1,0 +1,2 @@
+-- Create sequence 
+create sequence IF NOT EXISTS KURS_SEQ;
